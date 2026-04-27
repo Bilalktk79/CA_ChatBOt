@@ -1,4 +1,4 @@
-⚙️ System Architecture
+## System Architecture
 1. User Input Handling
 Accepts natural language input from the user
 Performs initial text normalization
